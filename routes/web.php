@@ -11,6 +11,11 @@
 |
 */
 
+
+
+
+// Route::get('/inicio', 'InicioController@index')->name('inicio');
+
 Route::get('/', function () {
     return view('welcome');
 });
