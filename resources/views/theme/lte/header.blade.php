@@ -86,7 +86,8 @@
                 <a href="#" class="dropdown-item">
                     <!-- Message Start -->
                     <div class="media">
-                        <img src="{{asset("assets/$theme/dist/img/user8-128x128.jpg"
+                        <img src="{{
+                            asset("assets/$theme/dist/img/user8-128x128.jpg")
                         }}" alt="User Avatar" class="img-size-50 img-circle
                         mr-3" />
                         <div class="media-body">
